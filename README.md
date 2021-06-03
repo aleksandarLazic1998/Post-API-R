@@ -7,5 +7,4 @@
 Refactored it with: 
 ##### 1. Webpack,
 ##### 2. TypeScript,
-##### 3. Axios.
-##### 4. Grunt.js
+##### 3. Axios
