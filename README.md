@@ -6,5 +6,5 @@
 
 Refactored it with: 
 ##### 1. Webpack,
-##### 2. TypeScript
+##### 2. TypeScript,
 ##### 3. and Axios.
